@@ -1,0 +1,19 @@
+
+
+
+<!doctype html>
+<html> 
+<head>
+<title>Form<title>
+</head>
+<body>
+<h1> simple form </h1>
+<form> 
+<input type="text" placeholder="fist name">
+<input typw="text" placeholder="last name">
+<intput type="email" placeholder="EMAIL">
+<intput type= "text placeholder="PRESENT ADDRESS">
+
+<intput type="text" placeholder="NID">
+</body>
+</html>
